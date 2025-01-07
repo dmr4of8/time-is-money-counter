@@ -14,6 +14,8 @@ export default function Home() {
       </Head>
 
       <Header title="Time is money! Get working bb" />
+      <p>Calculate how much you are making based on your hourly wage while the timer is running.</p>
+      <p>Just input your hourly wage and watch the $$ grow!</p>
       <main>
           <label>
             Hourly Wage: <input className='wage' name="hourlyWage" 
