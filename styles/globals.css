@@ -34,3 +34,47 @@ code {
   justify-content: center;
   align-items: center;
 }
+
+h1 {
+  margin: 30px;
+}
+
+
+.Timer {
+  text-align: center;
+  padding: 50px;
+}
+
+button {
+  font-size: 18px;
+  margin: 0 10px;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+.timer {
+  font-size: 24px;
+  margin-top: 20px;
+  padding: 10px;
+  background-color: #f0f0f0;
+  border-radius: 5px;
+  display: inline-block;
+}
+
+.money {
+  font-size: 24px;
+  margin-top: 20px;
+  padding: 10px;
+  background-color: #f0f0f0;
+  border-radius: 5px;
+  display: block;
+}
+
+.wage {
+  font-size: 24px;
+  margin-top: 20px;
+  padding: 10px;
+  background-color: #f0f0f0;
+  border-radius: 5px;
+  display: block;
+}
