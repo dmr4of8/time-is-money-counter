@@ -5,7 +5,7 @@ import Timer from '@components/Timer'
 import React from 'react'
 
 export default function Home() {
-  const [hourlyWage, setHourlyWage] = React.useState(60)
+  const [hourlyWage, setHourlyWage] = React.useState(25)
   return (
     <div className="container">
       <Head>
